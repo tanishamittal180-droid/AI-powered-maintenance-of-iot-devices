@@ -198,13 +198,17 @@ Suggested topics: `predictive-maintenance`, `iot`, `machine-learning`, `python`,
 
 Save your own screenshots under `images/`:
 
-- `01-overview.png`
-- `02-live-monitor.png`
-- `03-predictions.png`
-- `04-analytics.png`
-- `05-dataset-explorer.png`
-- `06-model-center.png`
-- `07-github-repository.png`
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015654" src="https://github.com/user-attachments/assets/9998180e-f600-43cf-a16d-ed4aedd4cae9" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015930" src="https://github.com/user-attachments/assets/eeccde05-1355-45fb-a59c-3a7239450720" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015919" src="https://github.com/user-attachments/assets/e3b467ef-23ac-4dd8-884b-be87a3c3404a" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015827" src="https://github.com/user-attachments/assets/1871a30e-59d9-4904-92fa-ae7dc48f3b9c" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015818" src="https://github.com/user-attachments/assets/0311c1b5-be85-467f-adae-133eddd234ba" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015750" src="https://github.com/user-attachments/assets/bf5eb3a8-34a8-49d2-8d6c-e848cd235128" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015742" src="https://github.com/user-attachments/assets/f7957027-5ef2-4fa2-b6d2-cf016824a8bb" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015728" src="https://github.com/user-attachments/assets/c22f0a0e-a6c9-4d45-8665-04321c8275c1" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015722" src="https://github.com/user-attachments/assets/3d88fa93-c96f-4ff6-8dd7-7fc87290ffc5" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015706" src="https://github.com/user-attachments/assets/c422daa3-63c8-4ad8-bea1-f71f990e2cfa" />
+
 
 Add them to this README with Markdown, for example:
 
