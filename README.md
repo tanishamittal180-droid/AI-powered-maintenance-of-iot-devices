@@ -197,18 +197,16 @@ Suggested topics: `predictive-maintenance`, `iot`, `machine-learning`, `python`,
 ## Screenshot checklist
 
 Save your own screenshots under `images/`:
-
-<img width="1366" height="768" alt="Screenshot 2026-10-15 015654" src="https://github.com/user-attachments/assets/9998180e-f600-43cf-a16d-ed4aedd4cae9" />
-<img width="1366" height="768" alt="Screenshot 2026-10-15 015930" src="https://github.com/user-attachments/assets/eeccde05-1355-45fb-a59c-3a7239450720" />
-<img width="1366" height="768" alt="Screenshot 2026-10-15 015919" src="https://github.com/user-attachments/assets/e3b467ef-23ac-4dd8-884b-be87a3c3404a" />
-<img width="1366" height="768" alt="Screenshot 2026-10-15 015827" src="https://github.com/user-attachments/assets/1871a30e-59d9-4904-92fa-ae7dc48f3b9c" />
-<img width="1366" height="768" alt="Screenshot 2026-10-15 015818" src="https://github.com/user-attachments/assets/0311c1b5-be85-467f-adae-133eddd234ba" />
-<img width="1366" height="768" alt="Screenshot 2026-10-15 015750" src="https://github.com/user-attachments/assets/bf5eb3a8-34a8-49d2-8d6c-e848cd235128" />
-<img width="1366" height="768" alt="Screenshot 2026-10-15 015742" src="https://github.com/user-attachments/assets/f7957027-5ef2-4fa2-b6d2-cf016824a8bb" />
-<img width="1366" height="768" alt="Screenshot 2026-10-15 015728" src="https://github.com/user-attachments/assets/c22f0a0e-a6c9-4d45-8665-04321c8275c1" />
-<img width="1366" height="768" alt="Screenshot 2026-10-15 015722" src="https://github.com/user-attachments/assets/3d88fa93-c96f-4ff6-8dd7-7fc87290ffc5" />
-<img width="1366" height="768" alt="Screenshot 2026-10-15 015706" src="https://github.com/user-attachments/assets/c422daa3-63c8-4ad8-bea1-f71f990e2cfa" />
-
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015654" src="https://github.com/user-attachments/assets/619f8071-7d48-4ce3-b8bc-fec05f7328b2" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015706" src="https://github.com/user-attachments/assets/081dc847-59cf-4aef-bb69-e65c16134602" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015722" src="https://github.com/user-attachments/assets/7055b04a-5203-4b98-aa60-6c51a3a93c88" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015728" src="https://github.com/user-attachments/assets/36917a5b-db7d-4533-a25e-c74338c13de0" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015742" src="https://github.com/user-attachments/assets/66a7ec0e-9768-47b1-96d0-623acf26baaf" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015750" src="https://github.com/user-attachments/assets/37e32b39-79f3-46bb-a70a-2d9e53e639e3" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015818" src="https://github.com/user-attachments/assets/399f110b-6685-4639-9589-9068be6cdd0d" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015827" src="https://github.com/user-attachments/assets/3b27e31d-01dd-47f5-b20c-0a607160d1bf" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015919" src="https://github.com/user-attachments/assets/c7732333-c651-42ec-8971-494268fffc05" />
+<img width="1366" height="768" alt="Screenshot 2026-10-15 015930" src="https://github.com/user-attachments/assets/06615edc-fa15-47b6-b5a4-eab9127d4aea" />
 
 Add them to this README with Markdown, for example:
 
